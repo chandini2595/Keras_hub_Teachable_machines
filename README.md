@@ -2,7 +2,7 @@
 
 # Links:
 
-Colab1 : [TeachableMachines](https://colab.research.google.com/github/your-username/your-repo/blob/main/your-notebook.ipynb)
+Colab1 : [TeachableMachines](https://colab.research.google.com/drive/1SPJYYQjTKmWQDx8l0BFhwUtFfR0xmKNK?usp=sharing)
 
 Colab2 : [SmallVariationsOfTheKeras-hub](https://colab.research.google.com/github/your-username/your-repo/blob/main/your-notebook.ipynb)
 
