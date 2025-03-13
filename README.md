@@ -8,5 +8,5 @@ Colab2 : [Image_Classification_Easy_Intermediate_Advanced_Expert_Keras-hub](http
 
 Colab 3 : [Text Generation](https://colab.research.google.com/drive/1kUaZRqkVnC1wBtM7WQqb8PFY_82E0-UG?usp=sharing)
 
-Youtube : [link](https://colab.research.google.com/github/your-username/your-repo/blob/main/your-notebook.ipynb)
+Youtube : [link](https://youtu.be/UjP_QbOYSys)
       
